@@ -6,7 +6,6 @@
 # Índice
 - [O que é?](#O-que-é-?)
 - [Instalação](#Instalação)
-- [Donate](#Donate)
 - [Contatos](#Contato)
 
 # O que é ?
